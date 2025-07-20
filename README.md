@@ -4,7 +4,7 @@
 🔭I'm an aspiring software developer/engineer.<br/>
 👨‍💻I'm currently learning c++.<br/>
 🌱I'm also currently working to develop my skills.<br/>
-👥️I'm looking forward to collaborate on exciting projects
+👥️I'm looking forward to collaborate on exciting projects.<br/>
 
 
 ## 🌐 Socials:
