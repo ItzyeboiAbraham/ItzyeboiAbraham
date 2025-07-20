@@ -1,4 +1,4 @@
-## Hi, I'm Abraham 
+## Hi👋🏽, I'm Abraham
 
 Information Systems student at Ghana Communications Technology University<br/>
 i'm a software developer/engineer<br/>
