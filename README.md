@@ -1,7 +1,10 @@
-## Hi👋🏽, I'm Abraham
+## Hi👋🏽, I'm Abraham🤓😇
 
-Information Systems student at Ghana Communications Technology University<br/>
-i'm a software developer/engineer<br/>
+🧠Information Systems student at Ghana Communications Technology University.<br/>
+🔭I'm an aspiring software developer/engineer.<br/>
+👨‍💻I'm currently learning c++.<br/>
+🌱I'm also currently working to develop my skills.<br/>
+👥️I'm looking forward to collaborate on exciting projects
 
 
 ## 🌐 Socials:
